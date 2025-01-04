@@ -89,7 +89,7 @@
             "Downloading sensitive data...",
             "WARNING: Unauthorized access detected!",
             "Tracing your IP address...",
-            "Location: [Your location here]",
+            "Location: [ultratech . cement plnat rawan grasim vihar,.. chattisgarh, INDIA]",
             "ALL YOUR FILES HAVE BEEN COMPROMISED.",
             "Deploying ransomware in 3... 2... 1..."
         ];
